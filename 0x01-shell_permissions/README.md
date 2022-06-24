@@ -1,1 +1,1 @@
-in the mirror
+look in the mirror
