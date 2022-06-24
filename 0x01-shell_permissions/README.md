@@ -1,1 +1,1 @@
-dirs
+owner and group
