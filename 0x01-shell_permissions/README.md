@@ -1,1 +1,1 @@
-permits multiples
+directories
