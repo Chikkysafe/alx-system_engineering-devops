@@ -1,2 +1,2 @@
-cat > 6-multiple_permissions  
-chmod ugo+x o+r hello 
+#!/bin/bash
+chmod ug+x o+r hello
