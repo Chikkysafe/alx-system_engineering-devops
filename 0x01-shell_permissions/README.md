@@ -1,1 +1,1 @@
-star war
+permit multiple
