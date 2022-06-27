@@ -1,1 +1,2 @@
-Prints hello World
+#!/bin/bash
+echo -e  “Hello, World”
