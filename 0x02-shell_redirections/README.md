@@ -1,1 +1,1 @@
-Display lines containing pattern
+Count that numbers
