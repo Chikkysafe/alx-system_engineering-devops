@@ -1,1 +1,1 @@
-prints the result of POWER divided by DIVIDE, followed by a new line
+ counts the number of directories in the PATH
