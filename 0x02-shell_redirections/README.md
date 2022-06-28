@@ -1,1 +1,1 @@
-creates a file containing the text ending by a new line
+ finds all empty files and directories in the current directory and all sub-directories
