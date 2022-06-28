@@ -1,1 +1,1 @@
- counts the number of directories in the PATH
+displays the result of BREATH to the power LOVE
