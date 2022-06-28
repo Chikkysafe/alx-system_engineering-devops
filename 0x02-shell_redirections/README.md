@@ -1,1 +1,1 @@
-Confused smiley
+creates a file containing the text ending by a new line
